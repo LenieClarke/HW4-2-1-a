@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HW4-2-1-a</string>
+    <string name="title">Hello! Your mission </string>
+    <string name="subtitleBook">глава книги</string>
+    <string name="subtitleGrammar">грамматика</string>
+    <string name="subtitleFilm">фильм с субтитрами</string>
+    <string name="subtitlePodcast">подкаст</string>
+    <string name="subtitleCommunication">общение с носителем языка на лингвистическом сайте</string>
+</resources>
